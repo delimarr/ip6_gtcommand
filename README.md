@@ -8,9 +8,9 @@ Deaktiviere Online Backup
 ![Deaktiviere Online Backup](images/01_disable_backup.png)
 - Wieder überall den Standard, bis zur erfolgreich abgeschlossenen Installation.
 
-## Produkt aktivieren
-- Kopiere den Lizenschlüssel: `APUQRPZ004065KSCABQ3`
-- Kopiere den Registrierungschlüssel: `2UG`
+## Produkt aktivieren, Schlüssel auf dem USB Stick
+- Kopiere den Lizenschlüssel: `XXXXXXXXXXXXXXXXXXXX`
+- Kopiere den Registrierungschlüssel: `RRR`
 
 ## Schienensystem laden
 Im Menü: File -> Load System -> `EBL 14Sat.got`
